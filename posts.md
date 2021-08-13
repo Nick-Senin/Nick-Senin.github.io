@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Posts
-description: Blog posts
+title: Посты 
+description: Все посты блога  
 permalink: /posts/
 ---

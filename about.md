@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Обо мне  
 permalink: /about/
 ---
 
-This is Minima Reboot, a Bootstrap-based rewrite of [Minima](https://github.com/jekyll/minima), the base Jekyll theme. It is designed to be lightweight, easy-to-use, and responsive.
+Меня зовут Сенин Николай 
 
-You can find Minima Reboot's source code at: [minima-reboot](https://github.com/aterenin/minima-reboot).
