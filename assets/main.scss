@@ -4,7 +4,14 @@
 @import "minima-reboot";
 
 img {
-
+    
     display:block;
     margin:auto;
+    width:100%;
+}
+
+iframe,video{
+    display:block;
+    margin:auto;
+    width:100%;
 }
