@@ -15,7 +15,7 @@ permalink: /Productivity class/
 	margin:0 auto;
 	width:100%;
     }
-    a , .button_cl {
+    .button_cl {
 	text-decoration:none;
 	color:black; 
 	}
