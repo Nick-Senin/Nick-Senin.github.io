@@ -17,6 +17,7 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
+- test.md
 
 footer_icons:
   username: nick_senin
