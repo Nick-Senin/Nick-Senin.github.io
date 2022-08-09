@@ -4,6 +4,12 @@ title: Обо мне
 permalink: /about/
 ---
 
+<style type="text/css">
+    img{
+        width:30%; 
+    }
+</style>
+
 ![new_pic](/assets/photo.png)
 
 ## Сенин Николай Николаевич
