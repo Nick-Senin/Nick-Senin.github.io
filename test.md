@@ -22,7 +22,7 @@ permalink: /Productivity class/
 
 </style>
 
-![banner 1.png](/assets/banner 1.png)
+![banner 1.png](/assets/banner_1.png)
 
 <button >
 <a href="https://t.me/nick_senin" class="button_cl" >Записаться и получить начальную форму </a>
