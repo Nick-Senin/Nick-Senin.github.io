@@ -16,10 +16,11 @@ permalink: /Productivity class/
 	margin:0 auto;
 	width:100%;
     }
+
     .button_cl {
 	text-decoration:none;
 	color:black; 
-	}
+    }
 
 </style>
 
