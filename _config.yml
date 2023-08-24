@@ -17,14 +17,11 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
-- test.md
 
 footer_icons:
   username: nick_senin
   url: https://vk.com/nick_senin
   icon: vk.svg
-
-
 
 paginate: 5
 
