@@ -11,3 +11,5 @@ gem "jekyll-paginate"
 gem "jekyll-feed"
 gem "jekyll-redirect-from"
 
+
+gem "materialize", "~> 0.4.5"
